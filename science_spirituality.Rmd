@@ -90,7 +90,7 @@ output:
 
 我拿什么奉献给你， 我不停的问， 我不停的找， 不停的想 . . . . . .
 
-<img src="images4/Thanksgiving.jpg">
+<img src="images/Thanksgiving.jpg">
 
 有首苏芮唱红的歌曲叫《奉献》，歌词本身就很感人，是一种感恩与奉献的情怀，而不是想得到什么。是呀，我拿什么奉献给你，我的朋友？回想自己这大半生，从一个山村的孩子走到今天，虽然很幸运地赶上了改革开放和出国潮，但在社会潮流的冲击震荡之下，常常觉得自己象汪洋中的一条船，恐惑迷茫，无所适从，只是被潮流推着走而已。孔子说：“三十而立，四十而不惑，五十而知天命。”  但自觉不但三十岁的时候没立起来，四十岁的时候反而更惑了。原来一直是相信科学的，但四十岁时反而连自己喜欢的科研都做不下去了，不得不改行混饭吃。活了大半辈子，自觉一无所长，一事无成，利益他人的事没做多少，能有今天却多亏了父母亲人老师朋友的帮助和恩惠。但我也不认为自己一无是处，想来支撑我一路蹣姗行到今天的一个好处或特点可能就是保持了自小就有的，喜欢追根求底的好奇心或书呆子之气。好像正是这种好奇书呆之气使我从一个山村的孩子考上大学，研究生，出国留学，搞科学研究。这种好奇书呆之气使我对玄虚不切实际的哲学问题感兴趣，初来美国时处境很困难，但读了一本关于一些西方伟大哲学家生平的书后便使我对眼前的困境变得不是太在乎，而度过了那段难关。在四十更惑中年事业危机以后凭这种好奇书呆之气阅读了一些关于科学／哲学／宗教方面特别是佛学及Krishnamurti的书，断断续续已有十年了。“五十而知天命 ”了吗？感觉好像有点明白了。对于“朝闻道，夕死可矣。”／“不以物喜，不以己悲。”／“最平凡的就是最伟大的”等哲语也觉得有了一些理解。
 
@@ -107,9 +107,9 @@ output:
 
 <br>
 
-<img src="images4/生命大问题.jpg">
+<img src="images/生命大问题.jpg">
 
-<img src="images4/康德墓志铭.jpg">
+<img src="images/康德墓志铭.jpg">
 
 
 《哲言隽语》：
@@ -165,7 +165,7 @@ Wherever the life is, [the world] bursts into appearance around it (Ralph Waldo 
 
 <br>
 
-<img src="images4/Krishnamurti.jpg">
+<img src="images/Krishnamurti.jpg">
 
 Wiki on Jiddu Krishnamurti: http://en.wikipedia.org/wiki/Jiddu_Krishnamurti
 
@@ -555,11 +555,11 @@ Bruce Rosenblum and Fred Kuttner 《Quantum Enigma: Physics Encounters Conscious
 ### 6.2 David Bohm：因果确定性量子力学，整体性，全息宇宙和隐卷序理论
 发表于 2014 年 07 月 13 日 由 胡沂
 
-<img src="images4/David_Bohm.jpg">
+<img src="images/David_Bohm.jpg">
 
 Rene Web’s  impression of David Bohm: “Because of Bohm’s international fame, I was quite unprepared for the unusually modest and unassuming, gentle person he turned out to be. He is the paradigm of the committed searcher and researcher, intensely absorbed in his philosophy of the implicate order, on which he lectures all over the world. Bohm looks like the proverbial professor, dressed in casual tweeds and almost always wearing a sweater. He is of average height, with brown hair, hazel eyes, a rather pale face, inward and intellectual in expression, a captivating smile and a quiet, low-keyed manner except on discussing physics, when he becomes animated and almost transformed, punctuating his points with vivid gestures. . . (He is) someone who, through science, perceived a universe of truth, beauty, meaning, even the good, and who made his perceptions come so convincingly alive to others. . . David Bohm seemed imbued with a feeling that whatever lies behind nature is holy.”
 
-<img src="images4/krishnamurti_bohm.jpg"> 
+<img src="images/krishnamurti_bohm.jpg"> 
 
 Jiddu Krishnamurti & David Bohm – The Future of Humanity (Part 1):
 
@@ -624,7 +624,7 @@ The Mandelbrot set: 如感兴趣请 follow the link below 去体验全息，下�
 
 http://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg
 
-<img src="images4/Mandelbrot_set.jpg"> 
+<img src="images/Mandelbrot_set.jpg"> 
 
 
 <br>
@@ -667,7 +667,7 @@ Robert Lanza and Bob Berman  《Biocentrism: How Life and Consciousness are the 
 
 达尔文的生物进化论和分子生物学无疑是现代生物科学的基石，这种唯物的，以基因为基础的学说能解释生物或生命的本质吗？好象很难，特别是象人这样的智能生物。 按现代分子生物学的理论，构建一个生物的所有信息都存在它的基因库里面，认为把这些基因都测序搞懂就可以了解整个生物了。现在人的基因库已全部测出，但人基因库的基因数量太少，还比不上一些简单的植物。老鼠的基因和人近90%相同，猩猩的基因则与人的基因达到近99%的相同。这些基因大多是一些基本的基建工（house keeping genes), 找不到使这些生物在身体构造方面差别的基因，更不用说解释生命智能差别的基因了。人和人之间的基因差异那就更小了，但“一母生九子，每人各不同”, 人的性格才华为何差别这么大？现代分子遗传学能解释吗？已有很多关于基因如何影响行为智能的动物研究，但很难得出明确的结论。基因遗传似乎只能解释人类差异的一部分，主要是身体外表，一个人本质的性格脾气是天生的，与遗传的关系不大。外表完全相同的双胞胎 （identical twins）, 其基因组成完全相同，性格却不同，是两个不同的人。当然这可勉强解释为基因虽相同，脑发育时因环境或另外的因素使基因的表达不同，因而神经的连接也不同，为什么会连接不同而其它的环境条件又差不多则讲不出所以然。现在主流的生物学家认为基因的表达和调控是关键，用大规模genomics/protomics来追溯基因的动态表达，希望基因在时间地点顺序上不同的动态表达能够解释这些差别，但问题远远没有这么简单，现代唯物的生物科学理论对生命的理解解释或许存在根本的缺陷。
 
-<img src="images4/Rupert-Sheldrake.jpg">  
+<img src="images/Rupert-Sheldrake.jpg">  
 
 Rupert Sheldrake （1942 － 现年72岁）是当代思想最为独立特行的生物学家。他提出的《Morphic Resonance》认为基因库以外的／目前科学未知的形态信息场（Morphogentic field ）通过形态共振（Morphic Resonance）提供了另外所需的器官组织结构的详细信息，使基因库里的有限的house keeping genes来最终完成器官组织的构建与修复，另外他还把《Morphic Resonance》假说推而广之，解释形态发育之外的一些现代生物学还解释不了的现象如个体／群体行为，记忆和意识等。他的《Morphic Resonance》假说对西方主流科学来说是如此的极端, 挑战现状权威，以至于当时知名科学期刊《Nature》的总编辑John Maddox 说他的这本书是近些年来最适合被烧的书，但他也不缺乏支持者，包括一些诺贝尔奖获得者。Rupert Sheldraked的假说还未被主流科学界认可，很多持传统主流看法的人说它是假科学，我则觉得很有道理。它与佛教佛学的一些说法道理很相近，对帮助理解佛学很有助益，因而在下面对Rupert Sheldrake 和他的《Morphic Resonance》假说做一下更详细的介绍。
 
@@ -1129,7 +1129,7 @@ Krishnamurti说现今人类的道德观是不道德的（the current dominant mo
 
 饥馑／疾疫／刀兵是人世间的灾难，称为三小灾，火水风三劫是宇宙性的灾难，称为三大灾，发生在成／住／坏／空四劫中的坏劫，这时一个大千世界要毁灭了，地球，月亮，太阳，甚至整个星系都爆炸融化气化了，变成虚空。如果只从物质世界的方面讲，和现代天文学观察到的天体星系演变有一些相似的地方， 但佛教的大千世界还有很多物质科学无法研究的天界天人。火劫来时，地球，月亮及太阳都爆炸毁掉了，从欲界一直烧到到属于色界初禅天顶部的大梵天。水劫来时，有形的一切都液化了，一直化到属于色界二禅天顶部的光音天。有趣的是佛教说地球上人类的最初祖先是从光音天上堕落下来的天人，刚到地球时，身体发光，会飞，也无男女之分，吃了地球上的东西，身体变得沉重，慢慢飞不动了，也有了男女之分。风劫来时，一切都气化了，一直化到到属于色界三禅天顶部的遍净天。只有色界四禅天 （四禅天是舍念清净）以上的天界才不受火水风三劫的影响。色界天离我们的人世间有多远呢，佛曾比喻说，若从色界天丢一颗石头下来，经十二万亿年才会到达。下面附上从南怀瑾先生的《如何修证佛法》中转来的佛教《三界天人表》供好奇者参考。
 
-<img src="images4/三界天人表.jpg"> 
+<img src="images/三界天人表.jpg"> 
 
 参考资料：
 
@@ -1509,7 +1509,7 @@ https://www.youtube.com/watch?v=CX4z2v7TOyc&feature=emb_logo
 ### 8.3 A.H. 阿玛斯和钻石途径 （AH Almaas and The Diamond Approach)
 发表于 2014 年 12 月 27 日
 
-<img src="images4/Almaas.jpg"> 
+<img src="images/Almaas.jpg"> 
 
 A.H.  阿马斯是 A. Hameed Ali 的笔名，他于1944年生于科威特，大约两岁时患过婴儿瘫，从此行走便离不开拐杖。在一次访谈中，他说这个病患造成了他身体上的缺陷不便和由此而致的对他人的依赖，这帮助他成为一个对人际交往敏感而内心自主的人。身体的不便使其不能忽视内在的感觉，因此发展了对内在活动的高度敏感性， 发展了一种内在的力量，一个不受外界情况影响的丰富的内心生活。
 
@@ -2006,7 +2006,7 @@ http://book.bfnn.org/books/0514.htm
 
 （十多年的读书思考的总结，《漫谈对科学／哲学／宗教／人生／宇宙／真理的认识理解：聊聊佛学和心灵学 》这个系列总算至此完毕，了了一件心事，可以歇息了， Cheers！）
 
-<img src="images4/飞雁之歌.jpg">
+<img src="images/飞雁之歌.jpg">
 
 <br>
 
