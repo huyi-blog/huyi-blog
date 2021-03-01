@@ -1,0 +1,28 @@
+---
+title: <font color="green">**Welcome to My Blog！**</font> 
+author:  <font size="5" >胡沂文集</font>
+output:
+  html_document:
+    fig_width: 1
+---
+
+----
+
+![](images/path.jpg)
+
+<br>
+
+<font size="5" color="blue"> 柏拉图说: “人的灵魂来自一个完美的家园，那里没有我们这个世界上任何的污秽和丑陋，只有纯净和美丽。灵魂离开了家园，来到这个世界，漂泊了很久，寄居在一个躯壳里面，它忘记了自己是从哪里来的，也忘记了家乡的一切。但每当它看到、听到或感受到这世界上一切美好的事物时，它就会不由自主地感动，它就觉得非常舒畅和亲切——它知道那些美好的东西，来自它的故园，那似曾相识的纯净和美好唤醒了它的记忆。于是它的一生都极力地追寻着那种回忆的感觉，不断地朝自己的故乡跋涉。人的生命历程就是灵魂寻找它的美丽故乡的归途。” </font>  
+
+<br>
+
+<img src="images/maple_tree.JPG">
+
+<center><img src="images/生命大问题.jpg"></center>
+<br>
+<center><img src="images/康德墓志铭.jpg"></center>
+<br>
+<center><img src="images/飞雁之歌.jpg"></center>
+
+<br>
+<font size="6" color="green">I am glad you are here. Enjoy！</font>  

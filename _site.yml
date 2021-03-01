@@ -1,0 +1,25 @@
+name: "R Markdown Websites Tutorial"
+navbar:
+  title: "HOME"
+  left:
+    - text: "随感杂文"
+      href: various_articles.html
+    - text: "旅游摄影"
+      href: scenery.html
+    - text: "科学与佛学"
+      href: 科学与佛学.html
+    - text: "科学哲学宗教心灵学融会理解"
+      href: science_spirituality.html
+    - text: "翻译：《璀璨的暗夜之旅：一些开悟自传片段》"
+      href: luminous_night.html
+    - text: "翻译：《灵魂的内在归家之旅》"
+      href: soul_journey.html   
+    - text: "钻石途径"
+      href: 关于钻石途径.html  
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html
